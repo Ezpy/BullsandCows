@@ -22,6 +22,7 @@ def Filter(_list, num, guess):
             new.append(i)
     return new
     
+    
 def Compare(m, n):
     strike = 0
     ball = 0
