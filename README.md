@@ -5,4 +5,5 @@ Simply by using random and GUI wx library !
 
 
 [Screenshot]
+
 ![alt tag](https://github.com/Ezpy/BullsandCows/blob/master/Screenshot.png)
