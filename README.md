@@ -1,8 +1,10 @@
-# BullsandCows
+# Bulls and Cows
 Bulls and Cows game coded in python
 
 Simply by using random and GUI wx library !
 
+See this game running by **Telegram bot** (telepot)
+<https://github.com/Ezpy/telepot/blob/master/examples/chat/bullsandcows.py>
 
 숫자 야구 게임
 - 파이썬으로 코딩되어있고 랜덤, GUI, wx 라이브러리를 사용합니다.
