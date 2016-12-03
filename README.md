@@ -1,7 +1,7 @@
 # Bulls and Cows
 Bulls and Cows game coded in python
 
-Simply by using random and GUI wx library !
+Simply by using **random** and GUI **wx** library !
 
 See this game running by **Telegram bot** (telepot)
 <https://github.com/Ezpy/telepot/blob/master/examples/chat/bullsandcows.py>
